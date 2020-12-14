@@ -15,3 +15,5 @@ class Camel {
   }
 
   let cody = new Camel ("Cody", "tan", "male", 700, 10);
+
+  export default Camel;

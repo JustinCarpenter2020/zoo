@@ -14,3 +14,5 @@ class Falcon{
   }
 }
 let finn = new Falcon ("Finn", "brown", "male", 2, 16);
+
+export default Falcon;

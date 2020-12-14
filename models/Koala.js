@@ -14,3 +14,6 @@ class Koala{
   }
 }
 let kenny = new Koala ("Kenny", "gray", "male", 20, 2);
+
+
+export default Koala;

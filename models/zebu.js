@@ -14,3 +14,5 @@ class Zebu{
   }
 }
 let zoey = new Zebu ("Zoey", "white", "female", 200,16);
+
+export default Zebu;

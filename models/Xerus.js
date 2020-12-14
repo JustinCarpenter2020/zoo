@@ -14,3 +14,5 @@ class Xerus{
   }
 }
 let xavier = new Xerus ("Xavier", "white", "female", .5, 10);
+
+export default Xerus;

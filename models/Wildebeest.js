@@ -14,3 +14,5 @@ class Wildebeest{
   }
 }
 let wilson = new Wildebeest ("Wilson", "brown", "male", 260, 12);
+
+export default Wildebeest;

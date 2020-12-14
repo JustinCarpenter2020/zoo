@@ -14,3 +14,5 @@ class Tiger{
   }
 }
 let tony = new Tiger ("Tony", "orange", "male", 600, 13);
+
+export default Tiger;

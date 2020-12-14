@@ -14,3 +14,6 @@ class Elephant {
   }
   }
   let ellie = new Elephant ("ellie", "gray", "female", 8000, 60);
+
+
+  export default Elephant;

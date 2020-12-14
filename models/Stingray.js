@@ -14,3 +14,6 @@ class Stingray {
   }
 }
 let sarah = new Stingray ("Sarah", "blue", "female", 50, 8);
+
+
+export default Stingray;
