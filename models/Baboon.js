@@ -14,6 +14,6 @@ class Baboon{
   }
   }
 
-  let barry = new Baboon ("Barry", "brown", "male", 45, 6);
+ 
 
   export default Baboon;

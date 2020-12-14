@@ -13,6 +13,6 @@ class Vulture{
     this.age = age;
   }
 }
-let vincent = new Vulture ("Vincent", "black", "male", 30, 5);
+
 
 export default Vulture;

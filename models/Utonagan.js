@@ -13,6 +13,6 @@ class Utonagan {
     this.age = age;
   }
 }
-let ulysses = new Utonagan ("Ulysses", "gray", "female", 80, 8);
+
 
 export default Utonagan;

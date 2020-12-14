@@ -13,6 +13,6 @@ class Hyena{
     this.age = age;
   }
 }
-let hilda = new Hyena ("Hilda", "tan", "female", 90, 20);
+
 
 export default Hyena;

@@ -13,6 +13,6 @@ class Narwhal{
     this.age = age;
   }
 }
-let ned = new Narwhal ("Ned", "blue", "male", 3000, 40);
+
 
 export default Narwhal;

@@ -13,7 +13,7 @@ class Quail{
     this.age = age;
   }
 }
-let quin = new Quail ("Quin", "white", "female", .4, 3);
+
 
 
 export default Quail;

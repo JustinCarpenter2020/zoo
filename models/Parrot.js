@@ -13,7 +13,7 @@ class Parrot {
     this.age = age;
   }
 }
-let pete = new Parrot ("Pete", "yellow", "female", 5, 38);
+
 
 
 export default Parrot;

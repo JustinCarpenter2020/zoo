@@ -15,6 +15,6 @@ class Donkey{
   }
   }
 
-  let daniel = new Donkey ("Daniel", "black", "male", 570, 18);
+
 
   export default Donkey;

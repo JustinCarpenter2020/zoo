@@ -13,7 +13,6 @@ class Iguana{
     this.age = age;
   }
 }
-let issac = new Iguana ("Issac", "green", "male", 8, 5);
 
 
 export default Iguana;

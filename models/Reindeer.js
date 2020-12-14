@@ -13,7 +13,7 @@ class Reindeer{
     this.age = age;
   }
 }
-let ralph = new Reindeer ("Ralph", "brown", "male", 632, 12);
+
 
 
 export default Reindeer;

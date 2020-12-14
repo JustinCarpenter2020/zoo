@@ -13,6 +13,6 @@ class Gorilla {
     this.age = age;
   }
 }
-let gwen = new Gorilla ("Gwen", "black", "female", 200, 51);
+
 
 export default Gorilla;

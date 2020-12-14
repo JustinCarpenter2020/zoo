@@ -13,6 +13,6 @@ class Falcon{
     this.age = age;
   }
 }
-let finn = new Falcon ("Finn", "brown", "male", 2, 16);
+
 
 export default Falcon;

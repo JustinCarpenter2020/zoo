@@ -13,6 +13,6 @@ class Jaguar {
     this.age = age;
   }
 }
-let john = new Jaguar ("John", "yellow", "male", 79, 10);
+
 
 export default Jaguar;

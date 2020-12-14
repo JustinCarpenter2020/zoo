@@ -13,6 +13,6 @@ class Yak{
     this.age = age;
   }
 }
-let yvonne = new Yak ("Yvonne", "black", "female", 1200, 20);
+
 
 export default Yak;

@@ -13,7 +13,7 @@ class Lion {
     this.age = age;
   }
 }
-let Leo = new Lion ("Leo", "tan", "female", 500, 13);
+
 
 
 export default Lion;

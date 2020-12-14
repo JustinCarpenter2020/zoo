@@ -13,6 +13,6 @@ class Meerkat {
     this.age = age;
   }
 }
-let matt = new Meerkat ("Matt", "yellow", "male", 2, 8);
+
 
 export default Meerkat;

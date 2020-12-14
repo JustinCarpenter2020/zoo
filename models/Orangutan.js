@@ -13,6 +13,6 @@ class Orangutan{
     this.age = age;
   }
 }
-let oscar = new Orangutan ("Oscar", "orange", "male", 67, 35);
+
 
 export default Orangutan;

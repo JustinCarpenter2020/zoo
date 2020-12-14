@@ -13,7 +13,7 @@ constructor(
   this.age = age;
 }
 }
-let angela = new Angelfish ("Angela", "red", "female", 1, 3);
+
 
 
 

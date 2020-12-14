@@ -13,6 +13,6 @@ class Xerus{
     this.age = age;
   }
 }
-let xavier = new Xerus ("Xavier", "white", "female", .5, 10);
+
 
 export default Xerus;
